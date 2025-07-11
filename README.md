@@ -25,19 +25,20 @@ pip install -r requirements.txt
 pip install pyautogui pyperclip python-dotenv openai
 python main.py
 ```
-
+---
 Auto-Reply-AI-Chatbot/
 ├── main.py              # Main script to run the bot
 ├── client.py            # OpenAI API wrapper logic (optional)
 ├── position.py          # Helper for determining screen positions
 ├── .env.example         # Template for your OpenAI API key
 ├── .gitignore           # Ignores .env and other secrets
----
+
 
 This project uses GUI automation (via pyautogui) and may control your mouse/keyboard. Run responsibly.
 
 
 ✨ Contribute
+
 Feel free to fork and create pull requests if you'd like to enhance this project!
 
 🧑‍💻 Author
