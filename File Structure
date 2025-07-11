@@ -1,0 +1,6 @@
+Auto-Reply-AI-Chatbot/
+├── main.py              # Main logic to run the bot
+├── client.py            # (Optional) Wrapper for GPT API calls
+├── position.py          # For determining screen regions
+├── .env.example         # Environment template
+├── .gitignore           # Ignore secrets and system files
